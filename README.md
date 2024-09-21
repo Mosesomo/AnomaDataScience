@@ -37,8 +37,8 @@ The model used for classification is **XGBoost**. The model has been trained and
 ## Installation & Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/AnomaData.git
-    cd AnomaData
+    git clone https://github.com/Mosesomo/AnomaDataScience
+    cd AnomaDataScience
     ```
 
 2. Install the necessary dependencies:
